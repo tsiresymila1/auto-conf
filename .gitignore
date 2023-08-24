@@ -1,0 +1,6 @@
+app/*
+!app/.gitignore
+!app/nginx/conf/nginx.conf
+
+.vscode
+__pycache__
